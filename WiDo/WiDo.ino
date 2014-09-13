@@ -14,7 +14,7 @@ Adafruit_CC3000 cc3000 = Adafruit_CC3000(ADAFRUIT_CC3000_CS, ADAFRUIT_CC3000_IRQ
 //Please enter the SSID and password of the router you want to connect
 
 #define WLAN_SSID       "Feynman"        // cannot be longer than 32 characters!
-#define WLAN_PASS       "0rk1nman"	   // 
+#define WLAN_PASS       "###"	   // 
 
 // Security can be WLAN_SEC_UNSEC, WLAN_SEC_WEP, WLAN_SEC_WPA or WLAN_SEC_WPA2
 #define WLAN_SECURITY   WLAN_SEC_WPA2
